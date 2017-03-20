@@ -1,0 +1,6 @@
+{
+"name": "ZeroMQ integration",
+"description": "integrates a zeromq event loop (maybe)",
+"version": "0.0.1",
+"dependencies": []
+}
